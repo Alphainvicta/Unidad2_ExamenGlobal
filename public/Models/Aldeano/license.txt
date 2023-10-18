@@ -1,0 +1,11 @@
+Model Information:
+* title:	Villager Model
+* source:	https://sketchfab.com/3d-models/villager-model-07bf4482be4c45a285680534a6568435
+* author:	suswar (https://sketchfab.com/suswar)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Villager Model" (https://sketchfab.com/3d-models/villager-model-07bf4482be4c45a285680534a6568435) by suswar (https://sketchfab.com/suswar) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
